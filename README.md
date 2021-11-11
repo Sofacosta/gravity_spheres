@@ -1,16 +1,17 @@
 <div align="center">
 
 # GRAVITY SPHERES 
-
-</div>
-
 <h3 align="center">Processing sketch</h3>
 <h4 align="center"> By Sofia Acosta</h4>
+
+![Alt Text](https://media.giphy.com/media/VTHdQHi0FtzxgbbHqT/giphy.gif)
+</div>
+
 
 ## Description
 I started this sketch in 2019 practicing conditionals using [The coding train "Bouncing ball" tutorials](https://www.youtube.com/watch?v=YIKRXl3wH8Y) as a guide. I modified the code so I could make the spheres bounce off of each other when touching and multiply the number of spheres. Feel free to use this code to create your own version and make sure to send me what you come up with at sofiaacostarascon@gmail.com
 
-## Setup/Installation Requirements to open Processing sketch in VSC for MAC users.
+## Setup/Installation Requirements to open Processing sketch in Visual Studio Code for MAC users.
 1. Download Processing 4
 2. Instal Processing Java
 3. Install extention Processing VSCode (not to be confused with Processing Language)
