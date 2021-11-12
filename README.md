@@ -11,7 +11,7 @@
 ## Description
 I started this sketch in 2019 practicing conditionals using [The coding train "Bouncing ball" tutorials](https://www.youtube.com/watch?v=YIKRXl3wH8Y) as a guide. I modified the code so I could make the spheres bounce off of each other when touching and multiply the number of spheres. Feel free to use this code to create your own version and make sure to send me what you come up with at sofiaacostarascon@gmail.com
 
-## Setup/Installation Requirements to open Processing sketch in Visual Studio Code for MAC users.
+## Setup/Installation Requirements to open Processing sketch in Visual Studio Code for Mac users.
 1. Download Processing 4
 2. Instal Processing Java
 3. Install extention Processing VSCode (not to be confused with Processing Language)
@@ -32,9 +32,9 @@ I started this sketch in 2019 practicing conditionals using [The coding train "B
 - Open in text editor to view code and make your own changes
 
 ##### Running the sketch
+![Screen Shot 2021-11-11 at 8 22 51 PM](https://user-images.githubusercontent.com/76922539/141398126-e13e03ba-95f3-4199-bfa7-f8e27ffe7377.png)
 
 - Go to the right side of the PDE file and press the green play button (you will have to install extention processing VScode)
-![Screen Shot 2021-11-11 at 8 22 51 PM](https://user-images.githubusercontent.com/76922539/141398126-e13e03ba-95f3-4199-bfa7-f8e27ffe7377.png)
 
 ## Known Bugs
 
