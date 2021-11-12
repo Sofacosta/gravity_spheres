@@ -34,6 +34,7 @@ I started this sketch in 2019 practicing conditionals using [The coding train "B
 ##### Running the sketch
 
 - Go to the right side of the PDE file and press the green play button (you will have to install extention processing VScode)
+![Screen Shot 2021-11-11 at 8 22 51 PM](https://user-images.githubusercontent.com/76922539/141398126-e13e03ba-95f3-4199-bfa7-f8e27ffe7377.png)
 
 ## Known Bugs
 
