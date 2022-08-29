@@ -9,7 +9,7 @@
 
 
 ## Description
-I started this sketch in 2019 practicing conditionals using [The coding train "Bouncing ball" tutorials](https://www.youtube.com/watch?v=YIKRXl3wH8Y) as a guide. I modified the code so I could make the spheres bounce off of each other when touching and multiply the number of spheres. Feel free to use this code to create your own version and make sure to send me what you come up with at sofiaacostarascon@gmail.com
+I started this sketch in 2019 practicing conditionals using [The coding train "Bouncing ball" tutorials](https://www.youtube.com/watch?v=YIKRXl3wH8Y) as a guide. I modified the code so I could make the spheres bounce off of each other when touching and multiply the number of spheres.
 
 ## Setup/Installation Requirements to open Processing sketch in Visual Studio Code for Mac users.
 1. Download Processing 4
