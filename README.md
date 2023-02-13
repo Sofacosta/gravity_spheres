@@ -39,9 +39,7 @@ I started this sketch in 2019 practicing conditionals using [The coding train "B
 ## Known Bugs
 
 - No known bugs
-## Support and Contact Details
- 
-Contact me at sofiaacostarascon@gmail.com
+
 ## Technologies Used
 
 - Processing 4
